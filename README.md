@@ -46,6 +46,7 @@ In this project, only the dataset of one particular borough has been used.
 - Statsmodels
 - Scikit-learn
 - Imbalanced-learn
+- Warnings
 
 ## Summary
 In the exploratory data analysis, it has been proven that complaints about heating in particular have by far the highest incidence both in the total comparison and in the annual evaluation. The leading region is the Bronx district, which is investigated in more detail in the following. On the basis of variables primarily related to the size of the buildings and the number of residents, a logistic regression model has been defined that demonstrates at a minimum a significant predictive effect for future urban development or planning in order to prevent heating complaints.
