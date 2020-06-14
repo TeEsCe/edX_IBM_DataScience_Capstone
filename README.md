@@ -24,7 +24,7 @@ Your organization has assigned you as the lead data scientist to provide the ans
 The project has been split into four different Jupyter notebooks - each of them corresponding to the four questions above.
 
 ## Datasets
-### New York City 311 complaints - Raw data
+### New York City 311 complaints
 This dataset is available at https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9. You can download part of this data by using SODA API.
 
 It's important to note, that the datasets consists of multiple gigabytes worth of data. Therefore, the raw data can't be uploaded to GitHub. This dataset is used as an import in the very first notebook. The other ones can be executed with the pickle file, that's generated in the end of the first notebook. You can download the file through the following link: https://drive.google.com/file/d/1DZuVO0EOC41m3r-yAGxuQMefUWpglYor/view?usp=sharing
